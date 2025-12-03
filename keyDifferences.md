@@ -1,5 +1,5 @@
 [Home](README.md)
 [Back](whatIsBitmap.md)
-[Next]()
+[Next](tools.md)
 
 # Bitmap vs Vector: Key Differences
