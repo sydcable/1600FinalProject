@@ -5,8 +5,9 @@
 # Bitmap vs Vector: Key Differences
 
 |Feature | Bitmap Images | Vector Images |
-__________________________________________
-Composition  Made of pixels (tiny squares of color)  Made of mathematical paths and shapes
+|------------|----------------------------------------|---------------------------------------|
+|Composition | Made of pixels (tiny squares of color) | Made of mathematical paths and shapes |
+|------------|----------------------------------------|---------------------------------------|
 Scalability  Loses quality when resized (pixelates)  Scales infinitely without losing quality
 File Size  Larger for high-resolution images  Generally smaller and more efficient
 Detail & Color  Excellent for complex color gradients (photos)  Limited for detailed color shading
