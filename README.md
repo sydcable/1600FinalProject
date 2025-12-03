@@ -12,7 +12,7 @@ This tutorial is intended for students, beginners in graphic design, and anyone 
   - Characteristics
   - Advantages and Disadvantages
   - Common Use Cases
-- What Are Bitmap Images?
+- [What Are Bitmap Images?](whatIsBitmap.md)
   - Characteristics
   - Advantages and Disadvantages
   - Common Use Cases
