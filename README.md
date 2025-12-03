@@ -9,9 +9,9 @@ This tutorial is intended for students, beginners in graphic design, and anyone 
 
 **Table of Contents**:
 - What Are Vector Images?
--- Characteristics
--- Advantages and Disadvantages
--- Common Use Cases
+  - Characteristics
+  - Advantages and Disadvantages
+  - Common Use Cases
 - What Are Bitmap Images?
 -- Characteristics
 -- Advantages and Disadvantages
