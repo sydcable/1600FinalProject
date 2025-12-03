@@ -16,6 +16,6 @@ This tutorial is intended for students, beginners in graphic design, and anyone 
   - Characteristics
   - Advantages and Disadvantages
   - Common Use Cases
-- Bitmap vs Vector: Key Differences
-- When to Use Bitmap vs Vector
-- Tools for Working with Bitmap and Vector Images
+- [Bitmap vs Vector: Key Differences](keyDifferences.md)
+  - When to Use Bitmap vs Vector
+- [Tools for Working with Bitmap and Vector Images](tools.md)
