@@ -8,7 +8,7 @@ This tutorial explains the differences between vector and bitmap (raster) images
 This tutorial is intended for students, beginners in graphic design, and anyone interested in understanding image formats. No prior experience with image editing software is required.
 
 **Table of Contents**:
-- What Are Vector Images?
+- [What Are Vector Images?](whatIsVector.md)
   - Characteristics
   - Advantages and Disadvantages
   - Common Use Cases
