@@ -13,3 +13,5 @@
 |Editing | Hard to edit individual elements | Easy to edit shapes and components  |
 |Best For | Photographs, detailed artwork | Logos, icons, illustrations, print designs|
 |Common Formats | JPEG, PNG, GIF | SVG, EPS, PDF|
+
+## 
