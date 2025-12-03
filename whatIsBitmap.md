@@ -1,6 +1,6 @@
 [Home](README.md)
 [Back](whatIsVector.md)
-[Next](keyDifference.md)
+[Next](keyDifferences.md)
 # What are Bitmap Images?
 
 Bitmap images, also known as raster images, are made up of a grid of tiny squares called pixels. Each pixel represents a single point of color in the image. When combined, these pixels form the complete picture you see on your screen.
