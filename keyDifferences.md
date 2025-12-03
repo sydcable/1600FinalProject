@@ -16,8 +16,6 @@
 
 ## When to use Bitmap vs. Vector:
 
-Choosing between bitmap and vector images depends on the type of project and the desired outcome. Here are some practical guidelines:
-
 ## Use Bitmap Images When:
 
 - You need realistic, detailed visuals, such as photographs or complex artwork.
