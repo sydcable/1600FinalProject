@@ -1,3 +1,5 @@
+[Home](README.md)
+[Next](whatIsBitmap.md)
 # What Are Vector Images?
 
 Vector images are digital graphics made using mathmatical formulas that define the lines, points, and curves of the image. This means that the images are not created using pixles. This means that vector graphics are resolution-independent, allowing them to scale up or down without losing quality.
