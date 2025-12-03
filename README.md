@@ -1,2 +1,8 @@
-# 1600FinalProject
-Final Project for INFOTC1600 using markdown pages to create a tutorial
+# Tutorial on Vector and Bitmap images
+Author: Sydney Cable
+
+**Summary**:
+This tutorial explains the differences between vector and bitmap (raster) images, how each type works, and when to use them. It covers their characteristics, advantages, disadvantages, and common use cases in digital design and graphics.
+
+**Target Audience**:
+This tutorial is intended for students, beginners in graphic design, and anyone interested in understanding image formats. No prior experience with image editing software is required.
